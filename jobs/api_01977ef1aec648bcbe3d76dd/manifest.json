@@ -1,0 +1,32 @@
+{
+  "job_id": "api_01977ef1aec648bcbe3d76dd",
+  "mode": "zip_split",
+  "file_url": "https://free-dl88.myalphadl.com/iglJQbR3EBY9_B5JvaNixA/The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD.mkv",
+  "suggested_filename": "The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD.mkv",
+  "total_size_bytes": 339525435,
+  "created_at_utc": "2026-05-30T07:36:26.728746+00:00",
+  "zip_folder": "jobs/api_01977ef1aec648bcbe3d76dd/zip",
+  "zip_main_file": "The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.zip",
+  "zip_parts": [
+    {
+      "name": "The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.z01",
+      "path": "jobs/api_01977ef1aec648bcbe3d76dd/zip/The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.z02",
+      "path": "jobs/api_01977ef1aec648bcbe3d76dd/zip/The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.z03",
+      "path": "jobs/api_01977ef1aec648bcbe3d76dd/zip/The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.zip",
+      "path": "jobs/api_01977ef1aec648bcbe3d76dd/zip/The.P.O.L.K.2026.720p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AD_split.zip",
+      "size_bytes": 56410193
+    }
+  ]
+}
